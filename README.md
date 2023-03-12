@@ -1,6 +1,6 @@
 # House of the Dragon
 
-Projeto desenvolvido durante a Semana do Programador do Zero ao Contratado do <a href="https://github.com/devemdobro">Dev em Dobro</a>, onde a proposta era a criação de um slider responsivo da série. Esse projeto foi a minha personalização a partir do projeto proposto pelos gêmeos, o idêntico, de tema The Last of Us, está disponível <a href="#">aqui</a>!
+Projeto desenvolvido durante a Semana do Programador do Zero ao Contratado do <a href="https://github.com/devemdobro">Dev em Dobro</a>, onde a proposta era a criação de um slider responsivo da série. Esse projeto foi a minha personalização a partir do projeto proposto pelos gêmeos, o idêntico, de tema The Last of Us, está disponível <a href="https://github.com/ssschneider/devweek-tlou">aqui</a>!
 
 ## 🔧 Tecnologias
 - HTML
@@ -11,7 +11,7 @@ Projeto desenvolvido durante a Semana do Programador do Zero ao Contratado do <a
 
 ## 🔗 Acesso
 
-Para acessar o projeto, basta <a href="#">clicar aqui </a>!
+Para acessar o projeto, basta <a href="https://ssschneider.github.io/devweek-htod/">clicar aqui </a>!
 
 ## 💻 Demo
 
